@@ -1,7 +1,7 @@
 [![Node.js CI](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml)
 
 ```
-# Black Tea Supply Chain Management dApp
+# Black Ice Tea Supply Chain Management dApp
 
 ## Overview
 
@@ -30,12 +30,12 @@ To run the Black Tea Supply Chain Management dApp locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/flechemano/black-tea.git
+   git clone https://github.com/flechemano/blackicetea024.git
    ```
 
 2. Install dependencies:
    ```bash
-   cd black-tea
+   cd blackicetea024
    npm install
    ```
 
@@ -67,6 +67,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or inquiries, please contact
 ```
-flechemano@gmail.com]
+uknu1037@hotmail.com]
 ```
 # blackicetea024
